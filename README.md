@@ -31,8 +31,8 @@ To run this script, you need to have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/youtube-comments-scraper.git
-   cd youtube-comments-scraper
+   git clone https://github.com/ayush-150101/youtube-comment-scraper.git
+   cd youtube-comment-scraper
    ```
 
 2. Install the required Python libraries:
